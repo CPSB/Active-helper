@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 - Added CHANGELOG.
-- added `.editorconfig` file. 
+- Added `.editorconfig` file. 
+- Added code of conduct. 
 
 ### Changed
 - (none)
