@@ -21,5 +21,12 @@
     }
   ],
   "minimum-stability": "stable",
-  "require": {}
+  "require": {},
+   "extra": {
+        "laravel" : {
+            "providers": [
+                "ActivismeBE\\ActiveMenu\\ActiveMenuServiceProvider"
+            ]
+        }
+    }
 }
